@@ -1,1 +1,6 @@
 .venv
+.idea
+__MACOSX
+example.py
+hint.py
+speed.py
